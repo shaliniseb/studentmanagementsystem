@@ -22,6 +22,7 @@ This project is used to create student and their mark list
 - Download project files from git
 - Create a database 'schooldb' or you can create a databse with any name
 - Add database configuration details to .env file (located in root folder)
+
           DB_CONNECTION=mysql
           DB_HOST=127.0.0.1
           DB_PORT=3306
